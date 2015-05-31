@@ -1,0 +1,7 @@
+{
+    "name":"Odoo - Apache 2.4 Inverse Proxy",
+    "tagline":"How-to deploy an Apache 2.4 inverse proxy to serve Odoo v8 applications",
+    "body":"* Install Apache 2.4 inverse proxy\n* ReverseProxy to Odoo with\n** workers = 1\n** workers > 1\n* SSL setting up\n** Redirect HTTP to HTTPS\n** Creating a PKI using XCA\n* Access restriction\n** via source IP ranges\n** via client certificate\n",
+    "google":"",
+    "note":"Don't delete this file! It's used internally to help with page regeneration."
+}
